@@ -62,9 +62,9 @@ const Prime = (function () {
 })();
 
 
-var alpha1 = new Prime(10);
-var alpha2 = new Prime(6);
-var alpha3 = new Prime();
+let alpha1 = new Prime(10);
+let alpha2 = new Prime(6);
+let alpha3 = new Prime();
 
 console.log(alpha1.isPerfect());
 console.log(alpha2.isPerfect());
