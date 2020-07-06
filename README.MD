@@ -10,5 +10,5 @@
   - 웹서버 구현 1~4단계
 
 ### day 03
-- 소수 클래스 2개를 하나로 만들기
-- 비동기 카페 만들기
+- [소수 클래스 2개를 하나로 만들기](https://github.com/wudys/woowatech2020/tree/master/day03_prime)
+- [비동기 우아한 카페 만들기](https://github.com/wudys/woowatech2020/tree/master/day03_cafe)
