@@ -1,6 +1,6 @@
 # 우아한테크캠프
 
-기간동안 진행했던 작업 정리
+캠프 기간동안 진행한 프로젝트를 정리했어요.
 
 ## Week 1
 
@@ -20,3 +20,7 @@
 ## Week 2
 
 - [우아한 배민상회 회원가입/로그인 구현하기](https://github.com/wudys/woowatech2020/tree/master/week2_market)
+
+## Week 3, 4
+
+- [Github Projects 구현하기](https://github.com/wudys/woowatech2020/tree/master/week3-4_todo)
