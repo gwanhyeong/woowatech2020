@@ -24,3 +24,12 @@
 ## Week 3, 4
 
 - [Github Projects 구현하기](https://github.com/wudys/woowatech2020/tree/master/week3-4_todo)
+
+## Week 5, 6
+
+- [가계부 서비스 구현하기](https://github.com/woowa-techcamp-2020/hkb-14)
+
+## Week 7, 8, 9
+
+- [B마트 서비스 구현하기](https://github.com/woowa-techcamp-2020/bmart-6)
+  - 처음 Figma를 접하고, 작업할 시안도 잡아보았다. ([결과물](https://www.figma.com/file/8PheL4eBFXz8IEEgtjZsR2/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BA%A0%ED%94%843%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=171%3A78))
